@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_uscn_table" label="extends" max_length="40" name="x_uscn_extends" type="collection">
+        <element label="str" max_length="40" name="str" type="string"/>
+    </element>
+</database>
