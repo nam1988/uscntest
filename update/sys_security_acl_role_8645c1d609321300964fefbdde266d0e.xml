@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-21 20:06:42</sys_created_on>
+        <sys_id>8645c1d609321300964fefbdde266d0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_uscn_table.x_uscn.user</sys_name>
+        <sys_package display_value="uscn" source="x_uscn">f94541d609321300964fefbdde266d0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="uscn">f94541d609321300964fefbdde266d0f</sys_scope>
+        <sys_security_acl display_value="x_uscn_table">8245c1d609321300964fefbdde266d0c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8645c1d609321300964fefbdde266d0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-21 20:06:42</sys_updated_on>
+        <sys_user_role display_value="x_uscn.user" name="x_uscn.user">0e4581d609321300964fefbdde266dc6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
